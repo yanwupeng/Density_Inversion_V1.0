@@ -1,3 +1,10 @@
+% !                                                program by peng yanwu,chen wenjin,tan xiaolong and hong guoqing/ 彭衍武、陈文进、谭小龙和洪国庆
+% !                               江西理工大学 Jiangxi University of Science and Technology
+% !                                             完成日期：2023年2月19日 Finish data:2023/2/19
+% !                 此程序能够反演得到合理的地质体密度分布/This program is capable of inverting and obtaining a reasonable distribution of geological body density
+% !                                     Email:ywpeng@mail.jxust.edu.cn/wjchen0710@163.com/xiaolongtan@mail.jxust.edu.cn/gqhong@mail.jxust.edu.cn
+
+
 function varargout = Density_Inversion(varargin)
 % DENSITY_INVERSION MATLAB code for Density_Inversion.fig
 %      DENSITY_INVERSION, by itself, creates a new DENSITY_INVERSION or raises the existing
